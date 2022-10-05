@@ -1,3 +1,22 @@
+# automated-french-press
+This is my iot automated french press. It works with a particle board and a Raspberry Pi | https://www.youtube.com/c/estefanniegg
+
+## Socials
+
+Use #estefannie so I can see your projects! 
+
+- YouTube: https://www.youtube.com/c/estefanniegg
+- Instagram: https://www.instagram.com/estefanniegg
+- Twitter: https://www.twitter.com/estefanniegg
+
+## License
+
+Unless otherwise specified, everything in this repository is covered by the following licence:
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[View Copyright](Copyright.md)
+
 automatedFrenchPress.py: Main base control loop for Raspberry Pi
 interetbutton.cpp: Internet Button signal and color control
 clockFont.ttf: cool clock font
@@ -28,18 +47,3 @@ Code on, dudes and dudettes!
 
 Estefannie
 
-## Socials
-
-Use #estefannie so I can see your projects! 
-
-- YouTube: https://www.youtube.com/c/estefanniegg
-- Instagram: https://www.instagram.com/estefanniegg
-- Twitter: https://www.twitter.com/estefanniegg
-
-## License
-
-Unless otherwise specified, everything in this repository is covered by the following licence:
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[View Copyright](Copyright.md)
